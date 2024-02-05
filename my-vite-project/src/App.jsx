@@ -2,6 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import DigitButton from './digitButton'
 const ACTIONS = {
   ADD_NUMBER: 'ADD_NUMBER',
   CHOOSE: 'CHOOSE',
